@@ -1,0 +1,11 @@
+{
+    "database" : {
+        "host" : "localhost",
+        "user" : "root",
+        "password" : "",
+        "dbname" : "weather"
+    },
+    "location" : {
+        "city" : "Costa Rica"
+    }
+}
